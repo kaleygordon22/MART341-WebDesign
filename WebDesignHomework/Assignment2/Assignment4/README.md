@@ -16,3 +16,12 @@ HTML, XML, XHTML-what sets them apart?
 
 - XHTML: XHTML is a version that leans more toward XML rather than HTML and it is more strict. It is supported by all major browsers. 
   
+What are the four essential elements every HTML needs?
+
+- <!DOCTYPE>
+
+- <root>
+
+- <head>
+
+- <body>
