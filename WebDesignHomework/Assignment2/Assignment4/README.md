@@ -26,4 +26,10 @@ What are the four essential elements every HTML needs?
 
 - < body >
 
+What's the purpose of the index.html page, and where should it be placed? 
 
+- Almost every website has the master HTML file, the index. It is extremely important; it is what every URL passed to a browser without a specific specified file "looks for." In other words, URL's with unclear instructions will automatically request a index.htl from the server. It should be placed at the top of the directory tree.
+
+What are the top namimg practices for clean and organized code?
+
+- The top naming practices for clean and organized code include but are not limited to, be descriptive, be consistent, avoid abbreviations, and avoid unneeded context.  
