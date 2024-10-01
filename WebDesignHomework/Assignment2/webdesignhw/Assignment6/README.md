@@ -1,0 +1,1 @@
+The website that I am choosing to dive deeper on is my coffee website. I love coffee nd I have one just about everyday, so this will be perfect. The style I am going for is pastel colors and overall a very delicate look for the entirety of the website. 
