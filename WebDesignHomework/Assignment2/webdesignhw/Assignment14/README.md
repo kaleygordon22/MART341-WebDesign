@@ -1,0 +1,1 @@
+I'm continuing to work on this coffee exploration website for the rest of the semester. For this weeks assignment I incorporated all of the required elements to the website. It includes four pages and a css layout. I struggled for a while with this one and I am still not sure if I did it right. However, I like the way it looks and I feel confident in it.
