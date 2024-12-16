@@ -7,10 +7,10 @@
 /* General styles */
 body {
     font-family: 'Cormorant Garamond', serif;
-    background-color: rgb(196, 231, 239);
+    background-color: rgb(236, 195, 223);
     margin: 20px;
     padding: 0;
-    color: rgb(47, 97, 107);
+    color: rgb(63, 185, 83);
 }
 
 h1 {
@@ -20,7 +20,7 @@ h1 {
     font-weight: 700;
     font-style: italic;
     margin: 20px;
-    color: rgb(60, 111, 121);
+    color: rgb(63, 185, 83);
 }
 
 h2 {
@@ -30,7 +30,7 @@ h2 {
     font-weight: 600;
     font-style: italic;
     margin: 20px;
-    color: rgb(60, 111, 121);
+    color: rgb(63, 185, 83);
 }
 
 p {
@@ -49,7 +49,7 @@ blockquote {
     font-weight: 300;
     font-style: italic;
     margin: 20px;
-    color: rgb(60, 111, 121);
+    color: rgb(63, 185, 83);
 }
 
 /* Navigation styles */
@@ -57,14 +57,14 @@ a {
     float: right;
     padding: 10px 15px;
     font-weight: 400;
-    color: rgb(47, 97, 107);
+    color: rgb(63, 185, 83);
     text-decoration:dotted;
     transition: color 0.3s ease, background-color 0.3s ease;
 }
 
 a:hover {
     color: white;
-    background-color: rgb(47, 97, 107);
+    background-color: rgb(63, 185, 83);
     border-radius: 5px;
 }
 
@@ -89,5 +89,5 @@ footer {
    font-weight: 300;
    font-style: normal;
    margin: 20px;
-   color: rgb(60, 111, 121);
+   color: rgb(63, 185, 83);
 }
