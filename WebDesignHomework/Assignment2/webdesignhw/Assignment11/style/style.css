@@ -57,7 +57,7 @@ a {
     float: right;
     padding: 10px 15px;
     font-weight: 400;
-    color: rgb(63, 185, 83);
+    color: rgb(23, 25, 23);
     text-decoration:dotted;
     transition: color 0.3s ease, background-color 1.5s ease;
 }
