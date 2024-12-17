@@ -1,12 +1,12 @@
 /* Import Google Fonts */ 
-.cormorant-garamond-light-italic {
-    font-family: 'Cormorant Garamond', serif;
+.raleway-light-italic {
+    font-family: 'Raleway', serif;
     font-weight: 500;
   }
 
 /* General styles */
 body {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Raleway', serif;
     background-color: rgb(236, 195, 223);
     margin: 20px;
     padding: 0;
@@ -14,7 +14,7 @@ body {
 }
 
 h1 {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Raleway', serif;
     text-align: center;
     font-size: 6em;
     font-weight: 700;
@@ -24,7 +24,7 @@ h1 {
 }
 
 h2 {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Raleway', serif;
     text-align: center;
     font-size: 6em;
     font-weight: 600;
@@ -34,7 +34,7 @@ h2 {
 }
 
 p {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Raleway', serif;
     text-align: left;
     font-size: 2em;
     font-weight: 500;
@@ -43,7 +43,7 @@ p {
 }
 
 blockquote {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Raleway', serif;
     text-align: right;
     font-size: 3em;
     font-weight: 300;
@@ -83,7 +83,7 @@ img:hover {
 
 /* Footer styling */
 footer {
-   font-family: 'Cormorant Garamond', serif;
+   font-family: 'Raleway', serif;
    text-align: left;
    font-size: 1em;
    font-weight: 300;
