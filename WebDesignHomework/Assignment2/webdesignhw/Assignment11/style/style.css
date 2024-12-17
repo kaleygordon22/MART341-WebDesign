@@ -8,7 +8,7 @@
 body {
     font-family: 'Raleway', serif;
     background-color: rgb(236, 195, 223);
-    margin: 20px;
+    margin: 50px;
     padding: 0;
     color: rgb(63, 185, 83);
 }
@@ -19,7 +19,7 @@ h1 {
     font-size: 6em;
     font-weight: 700;
     font-style: italic;
-    margin: 20px;
+    margin: 50px;
     color: rgb(63, 185, 83);
 }
 
@@ -29,7 +29,7 @@ h2 {
     font-size: 6em;
     font-weight: 600;
     font-style: italic;
-    margin: 20px;
+    margin: 50px;
     color: rgb(63, 185, 83);
 }
 
@@ -39,7 +39,7 @@ p {
     font-size: 2em;
     font-weight: 500;
     line-height: 1.6;
-    margin: 20px;
+    margin: 50px;
 }
 
 blockquote {
@@ -48,7 +48,7 @@ blockquote {
     font-size: 3em;
     font-weight: 300;
     font-style: italic;
-    margin: 20px;
+    margin: 50px;
     color: rgb(63, 185, 83);
 }
 
@@ -88,6 +88,6 @@ footer {
    font-size: 1em;
    font-weight: 300;
    font-style: normal;
-   margin: 20px;
+   margin: 50px;
    color: rgb(63, 185, 83);
 }
