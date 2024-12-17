@@ -1,19 +1,11 @@
 I worked on my gallery.html for assignment 12
 
 Sizing
-I chose specific sizing for the images on the page so that the layout lines up correctly.
-
-Border
-Between, above, and below each picture there is a border so that the pictures are spaced out.
+I ended up deleting one image so that there was an even amount of images with three in each row.
+.
 
 Margin
-There is also a margin around all of the pictures.
+There is a margin around all of the pictures.
 
-Padding
-I included padding in the navigation portion.
-
-Dropdown
-I didn't include a dropdown, but there is a hover effect over the naviagtio options.
-
-Position
-Each aspect of the page is positioned so that the website isn't over-crowded.
+Hover
+When you hover over the images, they take one a half seconds to get to their maximum size. Also, when you hover over the "about" "gallery" and "home" it changes to words to a different color.
