@@ -10,17 +10,17 @@ body {
     background-color: rgb(236, 195, 223);
     margin: 50px;
     padding: 0;
-    color: rgb(63, 185, 83);
+    color: rgb(27, 29, 28);
 }
 
 h1 {
     font-family: 'Raleway';
     text-align: center;
-    font-size: 6em;
+    font-size: 4em;
     font-weight: 700;
     font-style: italic;
     margin: 50px;
-    color: rgb(63, 185, 83);
+    color: rgb(23, 24, 23);
 }
 
 h2 {
