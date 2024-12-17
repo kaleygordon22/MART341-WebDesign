@@ -26,7 +26,7 @@ h1 {
 h2 {
     font-family: 'Raleway', serif;
     text-align: center;
-    font-size: 4em;
+    font-size: 2em;
     font-weight: 600;
     font-style: italic;
     margin: 50px;
@@ -36,7 +36,7 @@ h2 {
 p {
     font-family: 'Raleway', serif;
     text-align: left;
-    font-size: 2em;
+    font-size: 3em;
     font-weight: 500;
     line-height: 1.6;
     margin: 50px;
